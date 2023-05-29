@@ -1,0 +1,34 @@
+h1 {
+    color: red;
+}
+b {
+    color: blue;
+}
+
+.bullet {
+    list-style: circle;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: red;
+}
+
+.flex-container .box1 {
+    flex: 1;
+    background-color: white;
+}
+
+.flex-container .box2 {
+    flex: 1;
+    background-color: white;
+
+}
+
+.flex-container .box3 {
+    flex: 1;
+    background-color: white;
+
+}
